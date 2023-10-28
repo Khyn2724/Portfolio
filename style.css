@@ -1,0 +1,44 @@
+.head {
+    font-family: cursive;
+    background: -webkit-linear-gradient(#c29cff, #5d00c7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.Hi {
+    color: white;
+    text-align: right;
+    margin-right: 450px;
+}
+
+img {
+    border-radius: 50%; 
+    height: 600px;
+    margin-top: 1px;
+    float: left;
+    margin-left: 100px;
+}
+
+
+.container {
+           .hello {
+            inset: 1px;
+            text-align:justify;
+            margin-right: 200px;
+            margin-left: 800px;
+            animation: normal;
+           }
+}
+
+.hello {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 255, 81);
+
+}
+
+.quotes {
+    font-family: monospace;
+    color: aqua;
+    text-align: right;
+    
+}
